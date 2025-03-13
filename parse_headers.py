@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import os, re, sys
+import os, res 
 
 from markdownTable import markdownTable  # pip install py-markdown-table
 
